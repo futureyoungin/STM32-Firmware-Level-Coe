@@ -1,0 +1,6 @@
+ap.c:18:6:led_isr	16	static
+ap.c:25:6:apInit	8	static
+ap.c:30:6:apMain	16	static
+ap.c:56:6:runEraseEeprom	24	static
+ap.c:71:6:runWriteEeprom	24	static
+ap.c:92:6:runReadEeprom	16	static

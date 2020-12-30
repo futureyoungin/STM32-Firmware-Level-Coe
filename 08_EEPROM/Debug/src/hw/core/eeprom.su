@@ -1,0 +1,15 @@
+eeprom.c:74:6:eepromInit	16	static
+eeprom.c:89:6:eepromRead	40	static
+eeprom.c:107:6:eepromWrite	32	static
+eeprom.c:130:9:eepromReadByte	24	static
+eeprom.c:145:6:eepromWriteByte	16	static
+eeprom.c:162:10:eepromGetLength	4	static
+eeprom.c:170:6:eepromFormat	8	static
+eeprom.c:210:10:EE_Init	48	static
+eeprom.c:463:10:EE_VerifyPageFullyErased	24	static
+eeprom.c:501:10:EE_ReadVariable	32	static
+eeprom.c:560:10:EE_WriteVariable	24	static
+eeprom.c:584:26:EE_Format	32	static
+eeprom.c:635:17:EE_FindValidPage	24	static
+eeprom.c:707:17:EE_VerifyPageFullWriteVariable	40	static
+eeprom.c:768:17:EE_PageTransfer	56	static

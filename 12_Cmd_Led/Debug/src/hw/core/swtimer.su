@@ -1,0 +1,8 @@
+swtimer.c:24:6:swtimerInit	16	static
+swtimer.c:44:6:swtimerISR	16	static
+swtimer.c:64:6:swtimerSet	24	static
+swtimer.c:74:6:swtimerStart	16	static
+swtimer.c:81:6:swtimerStop	16	static
+swtimer.c:87:6:swtimerReset	16	static
+swtimer.c:92:18:swtimerGetHandle	16	static
+swtimer.c:99:10:swtimerGetCounter	4	static

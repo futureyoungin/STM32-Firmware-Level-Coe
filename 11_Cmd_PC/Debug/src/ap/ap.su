@@ -1,0 +1,4 @@
+ap.c:19:6:apInit	8	static
+ap.c:27:6:apMain	8	static
+ap.c:36:6:mcuLoop	16	static
+ap.c:51:6:mcuCmdReadVersion	24	static

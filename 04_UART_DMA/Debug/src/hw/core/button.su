@@ -1,0 +1,2 @@
+button.c:11:6:buttonInit	24	static
+button.c:23:6:buttonGetPressed	16	static

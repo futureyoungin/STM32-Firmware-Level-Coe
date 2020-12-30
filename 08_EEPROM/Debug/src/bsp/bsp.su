@@ -1,0 +1,2 @@
+bsp.c:10:6:SystemClock_Config	72	static
+bsp.c:51:6:bspInit	16	static

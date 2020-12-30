@@ -1,0 +1,4 @@
+ap.c:21:6:apInit	8	static
+ap.c:33:6:apMain	8	static
+ap.c:43:6:mcuLoop	16	static
+ap.c:69:6:pcLoop	16	static

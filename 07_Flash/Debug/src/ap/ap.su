@@ -1,0 +1,7 @@
+ap.c:19:6:led_isr	16	static
+ap.c:26:6:apInit	8	static
+ap.c:31:6:apMain	16	static
+ap.c:61:6:runEraseFlash	16	static
+ap.c:75:6:runShowFlash	24	static
+ap.c:87:6:runVerifyEmpty	24	static
+ap.c:110:6:runTestWrite	24	static

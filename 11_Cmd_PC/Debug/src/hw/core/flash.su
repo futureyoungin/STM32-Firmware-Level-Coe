@@ -1,0 +1,4 @@
+flash.c:36:6:flashInit	16	static
+flash.c:48:6:flashErase	48	static
+flash.c:87:6:flashWrite	48	static
+flash.c:118:16:getPage	24	static

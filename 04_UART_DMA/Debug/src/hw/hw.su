@@ -1,0 +1,3 @@
+hw.c:12:6:hwInit	8	static
+hw.c:21:6:delay	16	static
+hw.c:26:10:millis	8	static

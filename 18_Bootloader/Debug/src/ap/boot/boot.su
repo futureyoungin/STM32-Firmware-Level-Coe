@@ -1,0 +1,9 @@
+boot.c:36:6:bootInit	4	static
+boot.c:41:6:bootJumpToFw	16	static
+boot.c:49:6:bootCheckFw	16	static
+boot.c:64:6:bootCmdReadVersion	48	static
+boot.c:71:6:bootCmdReadBoardName	56	static
+boot.c:79:6:bootCmdFlashErase	32	static
+boot.c:117:6:bootCmdFlashWrite	32	static
+boot.c:154:6:bootCmdJumpToFw	16	static
+boot.c:168:6:bootProcessCmd	16	static

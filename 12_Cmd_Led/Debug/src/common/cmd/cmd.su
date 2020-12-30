@@ -1,0 +1,7 @@
+cmd.c:31:6:cmdInit	16	static
+cmd.c:40:6:cmdBegin	24	static
+cmd.c:53:6:cmdPutch	16	static
+cmd.c:58:6:cmdReceivePacket	24	static
+cmd.c:188:6:cmdSendResp	32	static
+cmd.c:236:6:cmdSendCmd	32	static
+cmd.c:283:6:cmdSendCmdRxResp	32	static
